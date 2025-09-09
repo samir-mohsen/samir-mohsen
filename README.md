@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Samir Mohsen 👋</h1>
+<h1 align="center">Hi, I'm Samir Mohsen Mohamed Al-Imam 👋</h1>
 <h3 align="center">Cybersecurity Enthusiast 🛡️ | Penetration Tester 💻 | Electronics & Communications Engineering Student ⚡</h3>
 
 <p align="center">
@@ -25,6 +25,8 @@
 ---
 
 <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100%" height="3px" />
+
+---
 
 ## 🚀 About Me
 
