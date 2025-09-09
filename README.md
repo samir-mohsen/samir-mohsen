@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Samir Mohsen 👋</h1>
-<h3 align="center">Cybersecurity Enthusiast 🛡️ | Penetration Tester 💻 | Electronics & Communications Engineering Student ⚡</h3>
+<h3 align="center">Offensive Security Specialist ⚔️ | Penetration Tester 💻 | Electronics & Communications Engineering Student ⚡</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/samir-mohsen-3085b2283" target="_blank">
