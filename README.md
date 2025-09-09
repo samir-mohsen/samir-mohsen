@@ -24,13 +24,6 @@
 
 ---
 
-
-
-
-
-
----
-
 # 🧠 Skills
 
 ## Programming Languages:
@@ -88,4 +81,23 @@
 - **Facebook:** [My Profile](https://www.facebook.com/share/19grUv1mxF/)  
 - **Twitter (X):** [@samir_mohsen00](https://x.com/samir_mohsen00?t=qZhQV2cqE0RPyyi5rvF_7g&s=09)
 
+<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100%" height="3px" />
 
+## 🚀 About Me
+
+```python
+class Samir:
+    def __init__(self):
+        self.role = "Cybersecurity Specialist | Penetration Tester"
+        self.education = "Electronics & Communications Engineering Student at Delta University"
+        self.passion = [
+            "Cybersecurity",
+            "Penetration Testing",
+            "Programming",
+            "Problem Solving",
+            "Electronics & Digital Systems"
+        ]
+        self.current_position = "Head of Cyber Security"
+
+    def motto(self):
+        return "Hacking is not about breaking, it's about learning and securing!"
