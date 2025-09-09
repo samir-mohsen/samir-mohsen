@@ -2,8 +2,8 @@
 <h3 align="center">Cybersecurity Enthusiast 🛡️ | Penetration Tester 💻 | Electronics & Communications Engineering Student ⚡</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
-    <img src="www.linkedin.com/in/samir-mohsen-3085b2283" />
+  <a href="https://linkedin.com/in/samir-mohsen-3085b2283" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/YOUR-GITHUB" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
